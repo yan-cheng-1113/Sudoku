@@ -1,20 +1,11 @@
 ///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
 //
-// Title: 13.8 **zyLab: Sudoku
-// Course: CS200, Fall, 2021
-//
-// Author: Yancheng Zhu
-// Email: zhu436@wisc.edu
-// Lecturer's Name: Jim Williams
+// Title: Sudoku
+// 
 //
 ///////////////////////////////// CITATIONS ////////////////////////////////////
 //
-// Source or Recipient; Description
-// Examples: REMOVE
-// Jane Doe; helped me with for loop in reverse method
-// https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html;
-// counting for loop
-// John Doe; I helped with switch statement in main method.
+//None
 //
 /////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
 
